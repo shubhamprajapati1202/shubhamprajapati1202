@@ -2,10 +2,10 @@
 
 # Hi there, I'm Shubham Prajapati 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=Sr.+Software+Engineer;Creator+of+C%C2%B3+MindLoop;Building+100%25+Privacy-First+Dev+Tools;14.4k%2B+VS+Code+Extension+Installs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=550&lines=Sr.+Software+%26+Backend+Engineer;Node.js+%7C+MERN+Stack+%7C+REST+APIs;Creator+of+C%C2%B3+MindLoop;14.4k%2B+VS+Code+Extension+Installs" alt="Typing SVG" /></a>
 
 <p align="center">
-  Passionate Fullstack & Frontend Engineer dedicated to building high-performance, privacy-first developer utilities, real-time WebRTC systems, and developer tooling.
+  Senior Software & Backend Engineer specializing in Node.js, REST APIs, MERN Stack, and scalable backend architecture. Creator of privacy-first developer utilities, real-time WebRTC systems, and open-source developer tooling.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-prajapati-php1202/)
@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack & Superpowers
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,html,css,python,git,github,vscode,webpack,jest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,mongodb,redis,react,nextjs,tailwind,python,git,github,docker,jest" />
 </p>
 
 ---
